@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "834241529402",
+    "project_id": "acimsat-d49ff",
+    "storage_bucket": "acimsat-d49ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834241529402:android:e53a895b7b609d74a25703",
+        "android_client_info": {
+          "package_name": "com.altamash.acimsat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834241529402-davp954vdsum85i3a3kchn511ikmis1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.altamash.acimsat",
+            "certificate_hash": "fa1fa1511a083708d95023fce27c4a2605f2f462"
+          }
+        },
+        {
+          "client_id": "834241529402-7ota7vb88p1rqllhn6b226eq4jicd75b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc3tKFVlBJckf56wTTkv3eZ1pgPi_Dd9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834241529402-7ota7vb88p1rqllhn6b226eq4jicd75b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/about"
+        android:title="Home" />
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about"
+        android:title="About" />
+    <item
+        android:id="@+id/quiz"
+        android:icon="@drawable/ic_baseline_question_answer_24"
+        android:title="Quiz" />
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/about"
+        android:title="Contact" />
+    <item
+        android:id="@+id/khirat"
+        android:icon="@drawable/about"
+        android:title="Al-Khairiya" />
+    <item
+        android:id="@+id/book"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Books" />
+    <item
+        android:id="@+id/admin"
+        android:icon="@drawable/ic_baseline_admin_panel_settings_24"
+        android:title="Admin" />
+    <item
+        android:id="@+id/website"
+        android:icon="@drawable/ic_baseline_cloud_circle_24"
+        android:title="Our Website" />
+</menu>

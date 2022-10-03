@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ACIMSAT</string>
+    <string name="user_name">User Name</string>
+    <string name="qustion_1_12">Qustion 1/12</string>
+    <string name="qustion">Qustion</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
+    <string name="option4">Option4</string>
+    <string name="next">Next</string>
+    <string name="Ahlebait">Asia\'s First Website Dedicated to The Scientific Teachings of Ahlulbayt</string>
+    <string name="islam_science">‘Islam and science are not only compatible but inseparable.’</string>
+    <string name="arbic">‏وَيَرَى ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ ٱلْحَقَّ وَيَهْدِىٓ إِلَىٰ صِرَطِ ٱلْعَزِيزِ ٱلْحَمِيدِ</string>
+    <string name="and">“And those who have been given the knowledge see that what has been sent down to you from your Lord is the truth, and guides to the path of the Mighty, the Praised.”</string>
+    <string name="al_qur_an_34_06">Al Qur’an 34:06</string>
+    <string name="about">This App is developed and being admin by ACIMSAT. Kindly join us in our mission and vision in order to make this world aware about the contributions of Masoomeen a.s.t.w. in the field of Science and Technology; from various fields of physics to chemistry from mathematical approaches to medical sciences.</string>
+    <string name="whoarewe">We are the youths of Millat e Rasool Allah s.a.w. and results of supplications of his daughter Fatima Zehra s.a.</string>
+    <string name="ourmission">Our Mission is to uplift the youths in socio-economic and knowledge perspective.</string>
+    <string name="what_we_do">Provide a Path to Education,\nSpread The Teachings of Ahlulbayt,\nWelfare of Society,\nGuide and Counselling,\nEconomical Support,\nEducational Support.</string>
+    <string name="waw">Who Are We</string>
+    <string name="OurMission">Our Mission</string>
+    <string name="PE">Programs and Events</string>
+    <string name="OW">Our work and efforts reflects in the form of our events conducted over the social medias platforms in order to motivate youths apart from religions to grasp actual teachings of Ahlulbayt a.s.t.w. Such as Competition, Quizzes, Webinars, Campaigns etc.</string>
+    <string name="J">Join and contribute in our missions which leads to the upliftment of the youths and dwellers of the human race</string>
+    <string name="JW">Join with us in our mission and vision</string>
+    <string name="WC">With a clear mission to make the aware about the contributions of Masoomeen a.s.t.w. in the field of Science and Technology; from various fields of physics to chemistry from mathematical approached to medical sciences, everywhere we can see the implementation of theories and statements given by our infallible Aimma Masoomeen a.s.t.w. and a clear vision to upgrade youths irrespective of religion or sect, that they should know what is the actual connection of theology and technology in according to the actual teachings of ahlulbayt a.s.t.w.</string>
+    <string name="L">Leaders help themselves and others to do the right things. They set direction, build an inspiring vision, and create More interesting is the reason and purpose of their knowledge: ” … to warn their people when they return to them, hopefully they may beware.” (Surah at-Tawba, 9:124) This verse divides the people into two groups: those who are learned in religious sciences and those who are not</string>
+    <string name="LD">Know Our Leadership</string>
+    <string name="imam2">Imam e Waqt</string>
+    <string name="sis2">Wali e Faqih wa Marja e Taqleed</string>
+    <string name="kha2">Marja e Taqleed</string>
+    <string name="imam">Hujjat Allah ibn Al-Hassan al-Mahdi "Imam e Zamana"</string>
+    <string name="sis">Ayatollah Sayyid Ali Hosseini Khamenei</string>
+    <string name="kha">Ayatollah Sayyid Ali al-Husayni al-Sistani</string>
+
+</resources>

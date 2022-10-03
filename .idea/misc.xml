@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1465" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/drawable/about.xml" value="0.1465" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/drawable/back.xml" value="0.142" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/drawable/gradient.xml" value="0.151" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/drawable/gradient2.xml" value="0.1465" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.1465" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1465" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/drawable/selectedoption.xml" value="0.142" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout-v28/activity_result.xml" value="0.25" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_about_us.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_admin_announcment.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_admin_login.xml" value="0.2" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_admin_quiz.xml" value="0.2" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_admin_quiz_subjective.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_admin_result.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_announcement.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_books.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_contact_us.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_feedback.xml" value="0.23194444444444445" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_khairat.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_main_quiz.xml" value="0.264" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_pdf_view.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_pdf_view2.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_question_option.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_register.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_result.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_subjective_main_quiz.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/activity_user_login.xml" value="0.25" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/header.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/notification_view.xml" value="0.264" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/view.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/layout/view_annu.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/menu/drawer_menu.xml" value="0.25" />
+        <entry key="..\:/Users/91980/AndroidStudioProjects/ACIMSAT/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="ACIMSAT.app" />
+      </set>
+    </option>
+  </component>
+</project>
